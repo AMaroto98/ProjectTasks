@@ -10,7 +10,7 @@ Empower yourself in project management with Project Tasks - a user-friendly app 
 
 ## 🚀 Live Demo
 
-**Live Preview** ➡️ [Demo](#)
+**Live Preview** ➡️ [Demo](https://project-tasks.vercel.app/)
 
 ---
 
