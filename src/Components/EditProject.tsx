@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { useState, useContext, useEffect } from "react";
+import { useState, useContext } from "react";
 import { IProject } from "../Types/IProjects";
 import { ITask } from "../Types/ITask";
 import { formatDate } from "../Services/Logic";
